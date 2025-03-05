@@ -1,4 +1,4 @@
-![Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner](https://github.com/user-attachments/assets/966d3eea-c0d5-449f-9d5d-93da32c135db)
+![priyanka S](https://github.com/user-attachments/assets/41e3a6e5-9ff8-425a-9075-b848c63059da)
 
 <h1 align="center">Hi 👋, I'm Priyanka S</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
