@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **New Framework and languages etc..**
 
-- 👨‍💻 All of my projects are available at:  [https://github.com/TheSupreet](https://github.com/TheSupreet)
+- 👨‍💻 All of my projects are available at:  [https://github.com/priyankas1812]((https://github.com/priyankas1812))
 
 - 💬 Ask me about :    **Front-End Development**
 
