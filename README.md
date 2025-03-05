@@ -1,4 +1,4 @@
-![Minimal Modern Elegant Background Technology Banner (1)](https://github.com/TheSupreet/TheSupreet/assets/119513422/17c0a9eb-faf5-4ef4-9e31-7c889d9f6341)
+![Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner](https://github.com/user-attachments/assets/966d3eea-c0d5-449f-9d5d-93da32c135db)
 
 <h1 align="center">Hi 👋, I'm Supreet Kurdekar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
