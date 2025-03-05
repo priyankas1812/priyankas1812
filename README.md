@@ -12,7 +12,10 @@
 
 - 💬 Ask me about :    **Full-stack Development**
 
-- 📫 How to reach me :   **spriyankas2974@gmail.com**
+# 📫 How to Reach Me
+- ✉️ **Email:** spriyankas2974@gmail.com  
+- 🔗 **LinkedIn:** [Priyanka S](https://www.linkedin.com/in/priyanka-s-22651025b/)
+
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
